@@ -14,6 +14,7 @@ To run the code you will need the following python packages
 4. Matplotlib
 5. Jupyter
 6. Seaborn
+
 All of the packages can be installed via pip, e.g., pywavelets can be installed by calling pip install PyWavelets in a terminal.
 For further installation guidelines please go to each package website and follow their instructions.
 
