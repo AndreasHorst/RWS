@@ -22,7 +22,7 @@ For further installation guidelines please go to each package website and follow
 
 1. Clone or download the repository
 2. Navigate to the directory
-3. Import 
+3. Import packages as in the example code below
 
 ```python
 # Imports
@@ -33,7 +33,7 @@ from scipy import stats
 import seaborn as sns
 
 ```
-
+Then you are ready to go!
 ## Example code 
 
-See the file `Paper_figures.ipynb` for the code generating the figures in the paper.
+See the file `Paper_figures.ipynb` for the code generating the figures in the paper. The code also serves as an example of how to use the code in RWS.py
