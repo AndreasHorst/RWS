@@ -5,6 +5,7 @@ These files reproduces all figures from the paper:
 > Title: **Besov Regularity of Random Wavelet Series **
 
 > Authors: **Andreas Horst , Thomas Jahn , Felix Voigtlaender**
+
 > Link to preprint: ** **
 ## Requirements
 To run the code you will need the following python packages
